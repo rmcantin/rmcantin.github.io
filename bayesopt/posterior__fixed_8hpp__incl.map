@@ -1,0 +1,16 @@
+<map id="posterior_fixed.hpp" name="posterior_fixed.hpp">
+<area shape="rect" id="node3" href="$inneroptimization_8hpp.html" title="C++ wrapper of the NLOPT library. " alt="" coords="189,80,333,107"/>
+<area shape="rect" id="node9" href="$criteria__functors_8hpp.html" title="Abstract and factory modules for criteria. " alt="" coords="358,80,497,107"/>
+<area shape="rect" id="node28" href="$posteriormodel_8hpp.html" title="Abstract interface for posterior model/criteria. " alt="" coords="625,155,756,181"/>
+<area shape="rect" id="node4" href="$optimizable_8hpp.html" title="Abstract class for optimizable objects. " alt="" coords="507,229,620,256"/>
+<area shape="rect" id="node5" href="$specialtypes_8hpp.html" title="Boost vector and matrix types. " alt="" coords="533,312,653,339"/>
+<area shape="rect" id="node11" href="$nonparametricprocess_8hpp.html" title="Abstract module for a Bayesian regressor. " alt="" coords="426,155,600,181"/>
+<area shape="rect" id="node12" href="$dataset_8hpp.html" title="Dataset model. " alt="" coords="645,229,736,256"/>
+<area shape="rect" id="node20" href="$prob__distribution_8hpp.html" title="Interface for probability models. " alt="" coords="761,229,903,256"/>
+<area shape="rect" id="node23" href="$mean__functors_8hpp.html" title="Mean (parametric) functions. " alt="" coords="349,229,483,256"/>
+<area shape="rect" id="node13" href="$log_8hpp.html" title="Modules and helper macros for logging. " alt="" coords="1041,312,1105,339"/>
+<area shape="rect" id="node18" href="$ublas__extra_8hpp.html" title="Extra functions for Ublas library. " alt="" coords="688,312,803,339"/>
+<area shape="rect" id="node21" href="$randgen_8hpp.html" title="Boost types for random number generation. " alt="" coords="1219,312,1312,339"/>
+<area shape="rect" id="node25" href="$parameters_8h.html" title="Parameter definitions. " alt="" coords="248,312,347,339"/>
+<area shape="rect" id="node27" href="$dll__stuff_8h_source.html" title="dll_stuff.h" alt="" coords="247,403,325,429"/>
+</map>

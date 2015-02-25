@@ -1,0 +1,51 @@
+<map id="parameters.h" name="parameters.h">
+<area shape="rect" id="node2" href="$bayesoptbase_8hpp.html" title="BayesOpt common module for interfaces. " alt="" coords="2698,80,2826,107"/>
+<area shape="rect" id="node16" href="$mean__functors_8hpp.html" title="Mean (parametric) functions. " alt="" coords="2875,80,3009,107"/>
+<area shape="rect" id="node31" href="$kernel__functors_8hpp.html" title="Kernel (covariance) functions. " alt="" coords="1190,80,1325,107"/>
+<area shape="rect" id="node44" href="$inneroptimization_8cpp_source.html" title="inneroptimization.cpp" alt="" coords="3033,80,3178,107"/>
+<area shape="rect" id="node45" href="$parameters_8cpp_source.html" title="parameters.cpp" alt="" coords="3203,80,3314,107"/>
+<area shape="rect" id="node46" href="$bayesopt_8h.html" title="BayesOpt wrapper for C interface. " alt="" coords="1745,155,1831,181"/>
+<area shape="rect" id="node3" href="$bayesopt_8hpp.html" title="BayesOpt main C++ interface. " alt="" coords="2092,155,2191,181"/>
+<area shape="rect" id="node15" href="$bayesoptbase_8cpp_source.html" title="bayesoptbase.cpp" alt="" coords="2775,304,2903,331"/>
+<area shape="rect" id="node4" href="$testfunctions_8hpp_source.html" title="testfunctions.hpp" alt="" coords="2154,229,2277,256"/>
+<area shape="rect" id="node9" href="$bo__cont_8cpp_source.html" title="bo_cont.cpp" alt="" coords="1625,229,1718,256"/>
+<area shape="rect" id="node10" href="$bo__disc_8cpp_source.html" title="bo_disc.cpp" alt="" coords="1743,229,1834,256"/>
+<area shape="rect" id="node11" href="$bayesoptcont_8cpp_source.html" title="bayesoptcont.cpp" alt="" coords="2005,229,2130,256"/>
+<area shape="rect" id="node12" href="$bayesoptdisc_8cpp_source.html" title="bayesoptdisc.cpp" alt="" coords="2301,229,2425,256"/>
+<area shape="rect" id="node13" href="$displaygp_8hpp.html" title="Plots the evolution (nonparametric process, criteria or contour plots) of 1D and 2D problems..." alt="" coords="2449,229,2551,256"/>
+<area shape="rect" id="node14" href="$bayesoptwpr_8cpp_source.html" title="bayesoptwpr.cpp" alt="" coords="1859,229,1979,256"/>
+<area shape="rect" id="node5" href="$bo__branin_8cpp_source.html" title="bo_branin.cpp" alt="" coords="1760,304,1862,331"/>
+<area shape="rect" id="node6" href="$bo__branin__display_8cpp_source.html" title="bo_branin_display.cpp" alt="" coords="2225,304,2375,331"/>
+<area shape="rect" id="node7" href="$bo__branin__mcmc_8cpp_source.html" title="bo_branin_mcmc.cpp" alt="" coords="1887,304,2034,331"/>
+<area shape="rect" id="node8" href="$bo__branin__timed_8cpp_source.html" title="bo_branin_timed.cpp" alt="" coords="2059,304,2201,331"/>
+<area shape="rect" id="node17" href="$nonparametricprocess_8hpp.html" title="Abstract module for a Bayesian regressor. " alt="" coords="2880,155,3054,181"/>
+<area shape="rect" id="node27" href="$mean__atomic_8hpp.html" title="Atomic (simple) parametric functions. " alt="" coords="3079,155,3205,181"/>
+<area shape="rect" id="node28" href="$mean__functors_8cpp_source.html" title="mean_functors.cpp" alt="" coords="3319,229,3453,256"/>
+<area shape="rect" id="node29" href="$mean__combined_8hpp.html" title="Parametric functions that combine other functions. " alt="" coords="3229,155,3371,181"/>
+<area shape="rect" id="node30" href="$posteriormodel_8hpp.html" title="Abstract interface for posterior model/criteria. " alt="" coords="2800,229,2931,256"/>
+<area shape="rect" id="node18" href="$kernelregressor_8hpp.html" title="Nonparametric process abstract module. " alt="" coords="2585,229,2719,256"/>
+<area shape="rect" id="node21" href="$criteria__functors_8hpp.html" title="Abstract and factory modules for criteria. " alt="" coords="3155,229,3294,256"/>
+<area shape="rect" id="node26" href="$nonparametricprocess_8cpp_source.html" title="nonparametricprocess.cpp" alt="" coords="2956,229,3130,256"/>
+<area shape="rect" id="node19" href="$conditionalbayesprocess_8hpp.html" title="Kernel based nonparametric process, conditional on kernel hyperparameters. " alt="" coords="2400,304,2590,331"/>
+<area shape="rect" id="node20" href="$kernelregressor_8cpp_source.html" title="kernelregressor.cpp" alt="" coords="2615,304,2750,331"/>
+<area shape="rect" id="node22" href="$posterior__empirical_8hpp_source.html" title="posterior_empirical.hpp" alt="" coords="2979,304,3134,331"/>
+<area shape="rect" id="node24" href="$posterior__fixed_8hpp.html" title="Posterior model based on fixed kernel parameters. " alt="" coords="3159,304,3290,331"/>
+<area shape="rect" id="node25" href="$posterior__mcmc_8hpp.html" title="Posterior distribution on GPs based on MCMC over kernel parameters. " alt="" coords="3315,304,3454,331"/>
+<area shape="rect" id="node23" href="$posteriormodel_8cpp_source.html" title="posteriormodel.cpp" alt="" coords="3075,379,3206,405"/>
+<area shape="rect" id="node32" href="$kernel__atomic_8hpp.html" title="Atomic (simple) kernel functions. " alt="" coords="525,155,653,181"/>
+<area shape="rect" id="node34" href="$kernel__functors_8cpp_source.html" title="kernel_functors.cpp" alt="" coords="598,304,733,331"/>
+<area shape="rect" id="node41" href="$kernel__combined_8hpp.html" title="Kernel functions that combine other kernels. " alt="" coords="1185,155,1330,181"/>
+<area shape="rect" id="node33" href="$kernel__const_8hpp_source.html" title="kernel_const.hpp" alt="" coords="528,229,649,256"/>
+<area shape="rect" id="node35" href="$kernel__gaussian_8hpp_source.html" title="kernel_gaussian.hpp" alt="" coords="674,229,814,256"/>
+<area shape="rect" id="node36" href="$kernel__hamming_8hpp_source.html" title="kernel_hamming.hpp" alt="" coords="839,229,981,256"/>
+<area shape="rect" id="node37" href="$kernel__linear_8hpp_source.html" title="kernel_linear.hpp" alt="" coords="1006,229,1126,256"/>
+<area shape="rect" id="node38" href="$kernel__matern_8hpp_source.html" title="kernel_matern.hpp" alt="" coords="24,229,153,256"/>
+<area shape="rect" id="node39" href="$kernel__polynomial_8hpp_source.html" title="kernel_polynomial.hpp" alt="" coords="177,229,327,256"/>
+<area shape="rect" id="node40" href="$kernel__rq_8hpp_source.html" title="kernel_rq.hpp" alt="" coords="352,229,451,256"/>
+<area shape="rect" id="node42" href="$kernel__prod_8hpp_source.html" title="kernel_prod.hpp" alt="" coords="1201,229,1315,256"/>
+<area shape="rect" id="node43" href="$kernel__sum_8hpp_source.html" title="kernel_sum.hpp" alt="" coords="1339,229,1454,256"/>
+<area shape="rect" id="node47" href="$bayesoptextras_8h.html" title="Helper functions to Matlab/Octave wrappers. " alt="" coords="1478,229,1601,256"/>
+<area shape="rect" id="node48" href="$bayesoptcatmex_8c_source.html" title="bayesoptcatmex.c" alt="" coords="1313,304,1442,331"/>
+<area shape="rect" id="node49" href="$bayesoptdiscmex_8c_source.html" title="bayesoptdiscmex.c" alt="" coords="1467,304,1601,331"/>
+<area shape="rect" id="node50" href="$bayesoptmex_8c_source.html" title="bayesoptmex.c" alt="" coords="1625,304,1735,331"/>
+</map>

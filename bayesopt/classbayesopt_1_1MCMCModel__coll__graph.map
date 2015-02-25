@@ -1,0 +1,8 @@
+<map id="bayesopt::MCMCModel" name="bayesopt::MCMCModel">
+<area shape="rect" id="node2" href="$classbayesopt_1_1PosteriorModel.html" title="Bayesian optimization using different non&#45;parametric processes as distributions over surrogate functi..." alt="" coords="208,187,379,213"/>
+<area shape="rect" id="node3" href="$structbopt__params.html" title="Configuration parameters. " alt="" coords="97,96,193,123"/>
+<area shape="rect" id="node4" href="$structmean__parameters.html" title="mean_parameters" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node5" href="$structkernel__parameters.html" title="Kernel configuration parameters. " alt="" coords="155,5,284,32"/>
+<area shape="rect" id="node6" href="$classbayesopt_1_1MeanModel.html" title="bayesopt::MeanModel" alt="" coords="218,96,368,123"/>
+<area shape="rect" id="node7" href="$classbayesopt_1_1Dataset.html" title="Dataset model to deal with the vector (real) based datasets. " alt="" coords="393,96,521,123"/>
+</map>

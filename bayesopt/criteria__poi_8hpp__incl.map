@@ -1,0 +1,14 @@
+<map id="criteria_poi.hpp" name="criteria_poi.hpp">
+<area shape="rect" id="node2" href="$criteria__functors_8hpp.html" title="Abstract and factory modules for criteria. " alt="" coords="558,80,697,107"/>
+<area shape="rect" id="node17" href="$prob__distribution_8hpp.html" title="Interface for probability models. " alt="" coords="789,229,931,256"/>
+<area shape="rect" id="node4" href="$nonparametricprocess_8hpp.html" title="Abstract module for a Bayesian regressor. " alt="" coords="541,155,715,181"/>
+<area shape="rect" id="node5" href="$dataset_8hpp.html" title="Dataset model. " alt="" coords="673,229,764,256"/>
+<area shape="rect" id="node20" href="$mean__functors_8hpp.html" title="Mean (parametric) functions. " alt="" coords="295,229,428,256"/>
+<area shape="rect" id="node26" href="$optimizable_8hpp.html" title="Abstract class for optimizable objects. " alt="" coords="535,229,648,256"/>
+<area shape="rect" id="node6" href="$log_8hpp.html" title="Modules and helper macros for logging. " alt="" coords="1017,312,1081,339"/>
+<area shape="rect" id="node11" href="$specialtypes_8hpp.html" title="Boost vector and matrix types. " alt="" coords="532,312,652,339"/>
+<area shape="rect" id="node15" href="$ublas__extra_8hpp.html" title="Extra functions for Ublas library. " alt="" coords="683,312,797,339"/>
+<area shape="rect" id="node18" href="$randgen_8hpp.html" title="Boost types for random number generation. " alt="" coords="1204,312,1297,339"/>
+<area shape="rect" id="node23" href="$parameters_8h.html" title="Parameter definitions. " alt="" coords="239,312,337,339"/>
+<area shape="rect" id="node25" href="$dll__stuff_8h_source.html" title="dll_stuff.h" alt="" coords="242,403,320,429"/>
+</map>

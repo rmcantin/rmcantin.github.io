@@ -1,0 +1,7 @@
+<map id="bayesopt::GreedyAOptimality" name="bayesopt::GreedyAOptimality">
+<area shape="rect" id="node2" href="$classbayesopt_1_1Criteria.html" title="Abstract interface for criteria functors. " alt="" coords="213,277,339,304"/>
+<area shape="rect" id="node3" href="$classbayesopt_1_1NonParametricProcess.html" title="Abstract class to implement Bayesian regressors. " alt="" coords="167,187,385,213"/>
+<area shape="rect" id="node4" href="$classbayesopt_1_1RBOptimizable.html" title="bayesopt::RBOptimizable" alt="" coords="5,96,176,123"/>
+<area shape="rect" id="node5" href="$classbayesopt_1_1MeanModel.html" title="bayesopt::MeanModel" alt="" coords="201,96,351,123"/>
+<area shape="rect" id="node6" href="$classbayesopt_1_1Dataset.html" title="Dataset model to deal with the vector (real) based datasets. " alt="" coords="375,96,504,123"/>
+</map>

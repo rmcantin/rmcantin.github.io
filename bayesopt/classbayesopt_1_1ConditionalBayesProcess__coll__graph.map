@@ -1,0 +1,8 @@
+<map id="bayesopt::ConditionalBayesProcess" name="bayesopt::ConditionalBayesProcess">
+<area shape="rect" id="node2" href="$classbayesopt_1_1KernelRegressor.html" title="Abstract class to implement non&#45;parametric processes. " alt="" coords="838,109,1018,136"/>
+<area shape="rect" id="node3" href="$classbayesopt_1_1NonParametricProcess.html" title="Abstract class to implement Bayesian regressors. " alt="" coords="517,79,736,105"/>
+<area shape="rect" id="node4" href="$classbayesopt_1_1RBOptimizable.html" title="bayesopt::RBOptimizable" alt="" coords="232,5,403,32"/>
+<area shape="rect" id="node5" href="$classbayesopt_1_1MeanModel.html" title="bayesopt::MeanModel" alt="" coords="242,56,393,83"/>
+<area shape="rect" id="node6" href="$classbayesopt_1_1Dataset.html" title="Dataset model to deal with the vector (real) based datasets. " alt="" coords="253,107,382,133"/>
+<area shape="rect" id="node8" href="$classbayesopt_1_1KernelModel.html" title="bayesopt::KernelModel" alt="" coords="549,147,704,173"/>
+</map>

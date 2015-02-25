@@ -1,0 +1,5 @@
+<map id="bayesopt::BayesOptBase" name="bayesopt::BayesOptBase">
+<area shape="rect" id="node2" href="$structbopt__params.html" title="Configuration parameters. " alt="" coords="95,96,192,123"/>
+<area shape="rect" id="node3" href="$structmean__parameters.html" title="mean_parameters" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node4" href="$structkernel__parameters.html" title="Kernel configuration parameters. " alt="" coords="155,5,284,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbayesopt_1_1BayesOptBase.html" title="Abstract module for Bayesian optimization. " alt="" coords="5,233,176,260"/>
+<area shape="rect" id="node2" href="$classbayesopt_1_1ContinuousModel.html" title="Bayesian optimization for functions in continuous input spaces. " alt="" coords="224,157,408,184"/>
+<area shape="rect" id="node9" href="$classbayesopt_1_1DiscreteModel.html" title="Bayesian optimization for functions in discrete spaces. " alt="" coords="233,309,399,336"/>
+<area shape="rect" id="node3" href="$classBraninNormalized.html" title="BraninNormalized" alt="" coords="463,5,588,32"/>
+<area shape="rect" id="node4" href="$classCContinuousModel.html" title="Version of ContinuousModel for the C wrapper. " alt="" coords="459,56,592,83"/>
+<area shape="rect" id="node5" href="$classExampleCamelback.html" title="ExampleCamelback" alt="" coords="456,107,595,133"/>
+<area shape="rect" id="node6" href="$classExampleHartmann6.html" title="ExampleHartmann6" alt="" coords="457,157,594,184"/>
+<area shape="rect" id="node7" href="$classExampleOneD.html" title="ExampleOneD" alt="" coords="472,208,579,235"/>
+<area shape="rect" id="node8" href="$classExampleQuadratic.html" title="ExampleQuadratic" alt="" coords="461,259,590,285"/>
+<area shape="rect" id="node10" href="$classCDiscreteModel.html" title="Version of DiscreteModel for the C wrapper. " alt="" coords="467,309,583,336"/>
+<area shape="rect" id="node11" href="$classExampleDisc.html" title="ExampleDisc" alt="" coords="475,360,575,387"/>
+</map>

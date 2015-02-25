@@ -1,0 +1,11 @@
+<map id="bayesopt::NonParametricProcess" name="bayesopt::NonParametricProcess">
+<area shape="rect" id="node3" href="$classbayesopt_1_1KernelRegressor.html" title="Abstract class to implement non&#45;parametric processes. " alt="" coords="491,68,671,95"/>
+<area shape="rect" id="node2" href="$classbayesopt_1_1RBOptimizable.html" title="bayesopt::RBOptimizable" alt="" coords="5,68,176,95"/>
+<area shape="rect" id="node4" href="$classbayesopt_1_1ConditionalBayesProcess.html" title="Empirical Bayesian NonParametric process. " alt="" coords="721,61,906,102"/>
+<area shape="rect" id="node5" href="$classbayesopt_1_1GaussianProcess.html" title="Standard zero mean gaussian process with noisy observations. " alt="" coords="965,39,1152,65"/>
+<area shape="rect" id="node6" href="$classbayesopt_1_1HierarchicalGaussianProcess.html" title="Virtual class for hierarchical Gaussian processes. " alt="" coords="955,90,1162,131"/>
+<area shape="rect" id="node7" href="$classbayesopt_1_1GaussianProcessML.html" title="Gaussian process with ML parameters. " alt="" coords="1213,5,1417,32"/>
+<area shape="rect" id="node8" href="$classbayesopt_1_1GaussianProcessNormal.html" title="Gaussian process with normal prior on the parameters. " alt="" coords="1221,57,1408,98"/>
+<area shape="rect" id="node9" href="$classbayesopt_1_1StudentTProcessJeffreys.html" title="Student T process with Jeffreys prior. " alt="" coords="1223,122,1407,163"/>
+<area shape="rect" id="node10" href="$classbayesopt_1_1StudentTProcessNIG.html" title="Student&#39;s t process with Normal Inverse&#45;Gamma hyperprior on mean and snigal variance parameters..." alt="" coords="1211,188,1419,215"/>
+</map>

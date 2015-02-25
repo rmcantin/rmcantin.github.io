@@ -1,0 +1,8 @@
+<map id="bayesopt::CritCallback" name="bayesopt::CritCallback">
+<area shape="rect" id="node2" href="$classbayesopt_1_1RBOptimizable.html" title="bayesopt::RBOptimizable" alt="" coords="5,264,176,291"/>
+<area shape="rect" id="node3" href="$classbayesopt_1_1ContinuousModel.html" title="Bayesian optimization for functions in continuous input spaces. " alt="" coords="200,264,384,291"/>
+<area shape="rect" id="node4" href="$classbayesopt_1_1BayesOptBase.html" title="Abstract module for Bayesian optimization. " alt="" coords="207,187,377,213"/>
+<area shape="rect" id="node5" href="$structbopt__params.html" title="Configuration parameters. " alt="" coords="243,96,340,123"/>
+<area shape="rect" id="node6" href="$structmean__parameters.html" title="mean_parameters" alt="" coords="153,5,279,32"/>
+<area shape="rect" id="node7" href="$structkernel__parameters.html" title="Kernel configuration parameters. " alt="" coords="303,5,432,32"/>
+</map>

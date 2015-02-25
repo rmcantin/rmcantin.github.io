@@ -1,0 +1,6 @@
+<map id="bayesopt::utils::DisplayProblem1D" name="bayesopt::utils::DisplayProblem1D">
+<area shape="rect" id="node3" href="$classbayesopt_1_1BayesOptBase.html" title="Abstract module for Bayesian optimization. " alt="" coords="96,187,267,213"/>
+<area shape="rect" id="node4" href="$structbopt__params.html" title="Configuration parameters. " alt="" coords="133,96,229,123"/>
+<area shape="rect" id="node5" href="$structmean__parameters.html" title="mean_parameters" alt="" coords="42,5,168,32"/>
+<area shape="rect" id="node6" href="$structkernel__parameters.html" title="Kernel configuration parameters. " alt="" coords="193,5,321,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ublas_elementwise.hpp" name="ublas_elementwise.hpp">
+<area shape="rect" id="node2" href="$kernel__atomic_8hpp.html" title="Atomic (simple) kernel functions. " alt="" coords="529,80,657,107"/>
+<area shape="rect" id="node11" href="$gaussian__process__normal_8cpp_source.html" title="gaussian_process_normal.cpp" alt="" coords="689,80,887,107"/>
+<area shape="rect" id="node12" href="$student__t__process__nig_8cpp_source.html" title="student_t_process_nig.cpp" alt="" coords="912,80,1091,107"/>
+<area shape="rect" id="node13" href="$boundingbox_8hpp.html" title="Module for box constrain management. " alt="" coords="1127,80,1247,107"/>
+<area shape="rect" id="node3" href="$kernel__const_8hpp_source.html" title="kernel_const.hpp" alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$kernel__functors_8cpp_source.html" title="kernel_functors.cpp" alt="" coords="447,229,581,256"/>
+<area shape="rect" id="node5" href="$kernel__gaussian_8hpp_source.html" title="kernel_gaussian.hpp" alt="" coords="201,155,341,181"/>
+<area shape="rect" id="node6" href="$kernel__hamming_8hpp_source.html" title="kernel_hamming.hpp" alt="" coords="366,155,508,181"/>
+<area shape="rect" id="node7" href="$kernel__linear_8hpp_source.html" title="kernel_linear.hpp" alt="" coords="533,155,653,181"/>
+<area shape="rect" id="node8" href="$kernel__matern_8hpp_source.html" title="kernel_matern.hpp" alt="" coords="678,155,807,181"/>
+<area shape="rect" id="node9" href="$kernel__polynomial_8hpp_source.html" title="kernel_polynomial.hpp" alt="" coords="831,155,981,181"/>
+<area shape="rect" id="node10" href="$kernel__rq_8hpp_source.html" title="kernel_rq.hpp" alt="" coords="1006,155,1105,181"/>
+<area shape="rect" id="node14" href="$bayesoptcont_8cpp_source.html" title="bayesoptcont.cpp" alt="" coords="1131,155,1256,181"/>
+</map>

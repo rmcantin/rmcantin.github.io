@@ -1,0 +1,8 @@
+<map id="bayesopt::AtomicFunction" name="bayesopt::AtomicFunction">
+<area shape="rect" id="node3" href="$classbayesopt_1_1ConstantFunction.html" title="Constant function. " alt="" coords="480,5,667,32"/>
+<area shape="rect" id="node4" href="$classbayesopt_1_1LinearFunction.html" title="Linear combination function. " alt="" coords="489,56,657,83"/>
+<area shape="rect" id="node5" href="$classbayesopt_1_1LinearPlusConstantFunction.html" title="Linear combination plus constant function. " alt="" coords="475,107,672,149"/>
+<area shape="rect" id="node6" href="$classbayesopt_1_1OneFunction.html" title="Constant one function. " alt="" coords="495,173,652,200"/>
+<area shape="rect" id="node7" href="$classbayesopt_1_1ZeroFunction.html" title="Constant zero function. " alt="" coords="494,224,653,251"/>
+<area shape="rect" id="node2" href="$classbayesopt_1_1ParametricFunction.html" title="Interface for mean functors. " alt="" coords="6,115,202,141"/>
+</map>

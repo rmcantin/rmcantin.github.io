@@ -1,0 +1,19 @@
+<map id="gaussian_process_ml.hpp" name="gaussian_process_ml.hpp">
+<area shape="rect" id="node2" href="$gauss__distribution_8hpp.html" title="Gaussian probability distribution. " alt="" coords="429,304,581,331"/>
+<area shape="rect" id="node7" href="$gaussian__process__hierarchical_8hpp.html" title="Hierarchical model for Gaussian process. " alt="" coords="594,80,819,107"/>
+<area shape="rect" id="node4" href="$prob__distribution_8hpp.html" title="Interface for probability models. " alt="" coords="325,379,467,405"/>
+<area shape="rect" id="node5" href="$randgen_8hpp.html" title="Boost types for random number generation. " alt="" coords="100,461,193,488"/>
+<area shape="rect" id="node8" href="$conditionalbayesprocess_8hpp.html" title="Kernel based nonparametric process, conditional on kernel hyperparameters. " alt="" coords="674,155,864,181"/>
+<area shape="rect" id="node9" href="$kernelregressor_8hpp.html" title="Nonparametric process abstract module. " alt="" coords="748,229,883,256"/>
+<area shape="rect" id="node10" href="$ublas__cholesky_8hpp.html" title="Cholesky decomposition. " alt="" coords="1623,379,1760,405"/>
+<area shape="rect" id="node19" href="$nonparametricprocess_8hpp.html" title="Abstract module for a Bayesian regressor. " alt="" coords="666,304,840,331"/>
+<area shape="rect" id="node37" href="$kernel__functors_8hpp.html" title="Kernel (covariance) functions. " alt="" coords="835,379,969,405"/>
+<area shape="rect" id="node20" href="$dataset_8hpp.html" title="Dataset model. " alt="" coords="581,379,672,405"/>
+<area shape="rect" id="node30" href="$mean__functors_8hpp.html" title="Mean (parametric) functions. " alt="" coords="995,379,1128,405"/>
+<area shape="rect" id="node36" href="$optimizable_8hpp.html" title="Abstract class for optimizable objects. " alt="" coords="697,379,809,405"/>
+<area shape="rect" id="node21" href="$log_8hpp.html" title="Modules and helper macros for logging. " alt="" coords="296,461,360,488"/>
+<area shape="rect" id="node26" href="$specialtypes_8hpp.html" title="Boost vector and matrix types. " alt="" coords="709,461,829,488"/>
+<area shape="rect" id="node28" href="$ublas__extra_8hpp.html" title="Extra functions for Ublas library. " alt="" coords="571,461,685,488"/>
+<area shape="rect" id="node33" href="$parameters_8h.html" title="Parameter definitions. " alt="" coords="853,461,952,488"/>
+<area shape="rect" id="node35" href="$dll__stuff_8h_source.html" title="dll_stuff.h" alt="" coords="1187,552,1265,579"/>
+</map>

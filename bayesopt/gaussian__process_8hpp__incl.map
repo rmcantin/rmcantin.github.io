@@ -1,0 +1,18 @@
+<map id="gaussian_process.hpp" name="gaussian_process.hpp">
+<area shape="rect" id="node2" href="$gauss__distribution_8hpp.html" title="Gaussian probability distribution. " alt="" coords="429,229,581,256"/>
+<area shape="rect" id="node7" href="$conditionalbayesprocess_8hpp.html" title="Kernel based nonparametric process, conditional on kernel hyperparameters. " alt="" coords="599,80,789,107"/>
+<area shape="rect" id="node4" href="$prob__distribution_8hpp.html" title="Interface for probability models. " alt="" coords="325,304,467,331"/>
+<area shape="rect" id="node5" href="$randgen_8hpp.html" title="Boost types for random number generation. " alt="" coords="100,387,193,413"/>
+<area shape="rect" id="node8" href="$kernelregressor_8hpp.html" title="Nonparametric process abstract module. " alt="" coords="753,155,888,181"/>
+<area shape="rect" id="node9" href="$ublas__cholesky_8hpp.html" title="Cholesky decomposition. " alt="" coords="1623,304,1760,331"/>
+<area shape="rect" id="node18" href="$nonparametricprocess_8hpp.html" title="Abstract module for a Bayesian regressor. " alt="" coords="666,229,840,256"/>
+<area shape="rect" id="node36" href="$kernel__functors_8hpp.html" title="Kernel (covariance) functions. " alt="" coords="835,304,969,331"/>
+<area shape="rect" id="node19" href="$dataset_8hpp.html" title="Dataset model. " alt="" coords="581,304,672,331"/>
+<area shape="rect" id="node29" href="$mean__functors_8hpp.html" title="Mean (parametric) functions. " alt="" coords="995,304,1128,331"/>
+<area shape="rect" id="node35" href="$optimizable_8hpp.html" title="Abstract class for optimizable objects. " alt="" coords="697,304,809,331"/>
+<area shape="rect" id="node20" href="$log_8hpp.html" title="Modules and helper macros for logging. " alt="" coords="296,387,360,413"/>
+<area shape="rect" id="node25" href="$specialtypes_8hpp.html" title="Boost vector and matrix types. " alt="" coords="709,387,829,413"/>
+<area shape="rect" id="node27" href="$ublas__extra_8hpp.html" title="Extra functions for Ublas library. " alt="" coords="571,387,685,413"/>
+<area shape="rect" id="node32" href="$parameters_8h.html" title="Parameter definitions. " alt="" coords="853,387,952,413"/>
+<area shape="rect" id="node34" href="$dll__stuff_8h_source.html" title="dll_stuff.h" alt="" coords="1187,477,1265,504"/>
+</map>
